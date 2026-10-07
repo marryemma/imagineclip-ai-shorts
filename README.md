@@ -348,6 +348,7 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 - [Transitioning Long-Form Content to YouTube Shorts](https://blog.youtube/creator-and-artist-stories/transitioning-your-long-form-content-to-youtube-shorts/) — Official YouTube blog
 - [How to Create YouTube Shorts from Existing Videos](https://www.descript.com/blog/article/how-to-create-youtube-shorts-from-existing-video)
 - [How to Make YouTube Shorts: Ultimate Tutorial](https://www.opus.pro/blog/how-to-make-youtube-shorts)
+- [EditLogic — CapCut Export Settings for Shorts](https://editlogic.io/best-export-settings-for-capcut-pc/) — Step-by-step CapCut guides for creators: best export settings for Shorts/Reels/TikTok, cache clearing, custom fonts
 
 #### Platform-Specific Guides
 
